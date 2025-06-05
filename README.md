@@ -4,6 +4,10 @@
 
 Bu proje, temel bir Retrieval-Augmented Generation (RAG) pipeline'ının Node.js ve açık kaynak araçlarla nasıl kurulabileceğini öğrenmek ve denemek için yapıldı. Gerçek hayat için production seviyesinde değildir, sadece öğrenme ve pratik amaçlıdır.
 
+📖 RAG Konsepti ile ilgili Medium yazıma gitmek için: 
+<br/>
+🔗 [RAG (Retrieval-Augmented Generation): AI Nasıl Daha Akıllı Hale Geliyor?](https://ensardev.medium.com/rag-retrieval-augmented-generation-ai-nas%C4%B1l-daha-ak%C4%B1ll%C4%B1-hale-geliyor-9e7d89c302ba)
+
 ---
 
 ## 🎯 Proje Amacı
